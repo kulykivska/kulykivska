@@ -8,14 +8,6 @@ I build machine learning systems that have to be right in production, and the to
 
 **Shmoozer** — realtime companion platform: payouts, socket delivery across pods, load and security work on a Kubernetes/AWS footprint.
 
-### Open source
-
-| | |
-|---|---|
-| [**dep-guard**](https://github.com/kulykivska/dep-guard) | GitHub Action that fails a build when a dependency can run code at install time or drift under a floating range. Supply-chain review on every update. |
-| [**claude-plugins**](https://github.com/kulykivska/claude-plugins) | Claude Code plugin marketplace: engineering reviewers, SEO and research subagents, safety hooks, monitors. Shared across projects instead of copied per repo. |
-| [**coderules-generator**](https://github.com/kulykivska/coderules-generator) | Generate project-specific `CLAUDE.md` and `.cursorrules` so an AI agent follows the standards a project actually has. |
-| [**specter**](https://github.com/kulykivska/specter) | Watches Jira tasks and generates Gherkin test scenarios. |
 
 ### Working on
 
