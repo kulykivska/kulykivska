@@ -1,6 +1,6 @@
 ## Yuliia Kulykivska
 
-Principal AI & Full Stack Engineer at [Shmoozer](https://shmoozer.com) · Founder & ML Engineer at [RaceModel](https://racemodel.io) · Chicago
+Principal AI & Full Stack Engineer at [Smoozer](https://smoozer.com) · Founder & ML Engineer at [RaceModel](https://racemodel.io) · Chicago
 
 I build machine learning systems that have to be right in production, and the tooling that keeps them that way.
 
